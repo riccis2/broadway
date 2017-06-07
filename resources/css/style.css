@@ -1,3 +1,15 @@
 *{
   text-align: center;
+  font-family: helvetica;
+  //*background-color: black;*//
+}
+
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.header{
+  background-image: url("../photos/building.png");
 }
