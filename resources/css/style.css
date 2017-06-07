@@ -15,7 +15,33 @@ a{
   color: white;
 }
 
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.bground{
+  color: white;
+  background-image: url("../photos/building.png");
+}
+
+p{
+  font-size: 14px;
+}
+
 .header{
   background-image: url("../photos/building.png");
   background-size: cover;
+}
+
+.footer{
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
 }
