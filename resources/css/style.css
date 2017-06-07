@@ -17,4 +17,5 @@ a{
 
 .header{
   background-image: url("../photos/building.png");
+  background-size: cover;
 }
